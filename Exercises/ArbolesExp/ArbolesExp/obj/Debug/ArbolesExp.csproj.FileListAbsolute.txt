@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\bin\Debug\ArbolesExp.exe.config
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\bin\Debug\ArbolesExp.exe
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\bin\Debug\ArbolesExp.pdb
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\obj\Debug\ArbolesExp.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\obj\Debug\ArbolesExp.Form1.resources
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\obj\Debug\ArbolesExp.Properties.Resources.resources
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\obj\Debug\ArbolesExp.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\obj\Debug\ArbolesExp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\obj\Debug\ArbolesExp.exe
+C:\Users\hp\source\repos\ArbolesExp\ArbolesExp\obj\Debug\ArbolesExp.pdb
