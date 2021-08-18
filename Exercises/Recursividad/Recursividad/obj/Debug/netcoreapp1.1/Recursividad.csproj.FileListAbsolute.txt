@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\Recursividad\Recursividad\bin\Debug\netcoreapp1.1\Recursividad.deps.json
+C:\Users\hp\source\repos\Recursividad\Recursividad\bin\Debug\netcoreapp1.1\Recursividad.runtimeconfig.json
+C:\Users\hp\source\repos\Recursividad\Recursividad\bin\Debug\netcoreapp1.1\Recursividad.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Recursividad\Recursividad\obj\Debug\netcoreapp1.1\Recursividad.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\Recursividad\Recursividad\obj\Debug\netcoreapp1.1\Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Recursividad\Recursividad\obj\Debug\netcoreapp1.1\Recursividad.AssemblyInfo.cs
+C:\Users\hp\source\repos\Recursividad\Recursividad\bin\Debug\netcoreapp1.1\Recursividad.dll
+C:\Users\hp\source\repos\Recursividad\Recursividad\bin\Debug\netcoreapp1.1\Recursividad.pdb
+C:\Users\hp\source\repos\Recursividad\Recursividad\obj\Debug\netcoreapp1.1\Recursividad.dll
+C:\Users\hp\source\repos\Recursividad\Recursividad\obj\Debug\netcoreapp1.1\Recursividad.pdb
