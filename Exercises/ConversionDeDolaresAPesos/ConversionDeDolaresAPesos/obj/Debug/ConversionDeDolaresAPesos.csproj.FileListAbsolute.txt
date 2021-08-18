@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ConversionDeDolaresAPesos\ConversionDeDolaresAPesos\bin\Debug\ConversionDeDolaresAPesos.exe.config
+C:\Users\hp\source\repos\ConversionDeDolaresAPesos\ConversionDeDolaresAPesos\bin\Debug\ConversionDeDolaresAPesos.exe
+C:\Users\hp\source\repos\ConversionDeDolaresAPesos\ConversionDeDolaresAPesos\bin\Debug\ConversionDeDolaresAPesos.pdb
+C:\Users\hp\source\repos\ConversionDeDolaresAPesos\ConversionDeDolaresAPesos\obj\Debug\ConversionDeDolaresAPesos.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ConversionDeDolaresAPesos\ConversionDeDolaresAPesos\obj\Debug\ConversionDeDolaresAPesos.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ConversionDeDolaresAPesos\ConversionDeDolaresAPesos\obj\Debug\ConversionDeDolaresAPesos.exe
+C:\Users\hp\source\repos\ConversionDeDolaresAPesos\ConversionDeDolaresAPesos\obj\Debug\ConversionDeDolaresAPesos.pdb
