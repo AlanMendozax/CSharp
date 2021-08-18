@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\case\case\obj\Debug\case.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\case\case\obj\Debug\case.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\case\case\bin\Debug\@case.exe.config
+C:\Users\hp\source\repos\case\case\bin\Debug\@case.exe
+C:\Users\hp\source\repos\case\case\bin\Debug\@case.pdb
+C:\Users\hp\source\repos\case\case\obj\Debug\@case.exe
+C:\Users\hp\source\repos\case\case\obj\Debug\@case.pdb
