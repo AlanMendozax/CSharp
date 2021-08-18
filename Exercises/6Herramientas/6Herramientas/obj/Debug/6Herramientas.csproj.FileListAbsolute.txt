@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\bin\Debug\6Herramientas.exe.config
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\bin\Debug\6Herramientas.exe
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\bin\Debug\6Herramientas.pdb
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\obj\Debug\6Herramientas.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\obj\Debug\_6Herramientas.Form1.resources
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\obj\Debug\_6Herramientas.Properties.Resources.resources
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\obj\Debug\6Herramientas.csproj.GenerateResource.Cache
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\obj\Debug\6Herramientas.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\obj\Debug\6Herramientas.exe
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\obj\Debug\6Herramientas.pdb
+C:\Users\hp\source\repos\6Herramientas\6Herramientas\obj\Debug\_6Herramientas.Form2.resources
