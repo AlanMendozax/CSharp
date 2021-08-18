@@ -1,0 +1,5 @@
+C:\Users\hp\source\repos\ProyectoPVAdmon\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ProyectoPVAdmon\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\hp\source\repos\ProyectoPVAdmon\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\hp\source\repos\ProyectoPVAdmon\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\hp\source\repos\ProyectoPVAdmon\CapaDatos\obj\Debug\CapaDatos.pdb
