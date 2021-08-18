@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\CaseCola\CaseCola\bin\Debug\CaseCola.exe.config
+C:\Users\hp\source\repos\CaseCola\CaseCola\bin\Debug\CaseCola.exe
+C:\Users\hp\source\repos\CaseCola\CaseCola\bin\Debug\CaseCola.pdb
+C:\Users\hp\source\repos\CaseCola\CaseCola\obj\Debug\CaseCola.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\CaseCola\CaseCola\obj\Debug\CaseCola.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CaseCola\CaseCola\obj\Debug\CaseCola.exe
+C:\Users\hp\source\repos\CaseCola\CaseCola\obj\Debug\CaseCola.pdb
