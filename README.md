@@ -1,2 +1,2 @@
 # CSharp
-Exercises &amp; project with C#
+Exercises &amp; projects with C#
