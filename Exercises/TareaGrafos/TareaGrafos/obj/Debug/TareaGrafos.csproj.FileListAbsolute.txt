@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\obj\Debug\TareaGrafos.Form1.resources
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\obj\Debug\TareaGrafos.Properties.Resources.resources
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\obj\Debug\TareaGrafos.csproj.GenerateResource.Cache
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\obj\Debug\TareaGrafos.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\bin\Debug\TareaGrafos.exe.config
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\bin\Debug\TareaGrafos.exe
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\bin\Debug\TareaGrafos.pdb
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\obj\Debug\TareaGrafos.exe
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\obj\Debug\TareaGrafos.pdb
+C:\Users\hp\source\repos\TareaGrafos\TareaGrafos\obj\Debug\TareaGrafos.csprojAssemblyReference.cache
