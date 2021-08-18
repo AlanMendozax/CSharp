@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\cola_eli\cola_eli\obj\Debug\cola_eli.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\cola_eli\cola_eli\obj\Debug\cola_eli.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\cola_eli\cola_eli\bin\Debug\cola_eli.exe.config
+C:\Users\hp\source\repos\cola_eli\cola_eli\bin\Debug\cola_eli.exe
+C:\Users\hp\source\repos\cola_eli\cola_eli\bin\Debug\cola_eli.pdb
+C:\Users\hp\source\repos\cola_eli\cola_eli\obj\Debug\cola_eli.exe
+C:\Users\hp\source\repos\cola_eli\cola_eli\obj\Debug\cola_eli.pdb
