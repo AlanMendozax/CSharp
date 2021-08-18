@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\DataGridView\DataGrithView\bin\Debug\DataGrithView.exe.config
+C:\Users\hp\source\repos\DataGridView\DataGrithView\bin\Debug\DataGrithView.exe
+C:\Users\hp\source\repos\DataGridView\DataGrithView\bin\Debug\DataGrithView.pdb
+C:\Users\hp\source\repos\DataGridView\DataGrithView\obj\Debug\DataGridView.csprojResolveAssemblyReference.cache
+C:\Users\hp\source\repos\DataGridView\DataGrithView\obj\Debug\DataGrithView.Form1.resources
+C:\Users\hp\source\repos\DataGridView\DataGrithView\obj\Debug\DataGrithView.Properties.Resources.resources
+C:\Users\hp\source\repos\DataGridView\DataGrithView\obj\Debug\DataGridView.csproj.GenerateResource.Cache
+C:\Users\hp\source\repos\DataGridView\DataGrithView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\DataGridView\DataGrithView\obj\Debug\DataGrithView.exe
+C:\Users\hp\source\repos\DataGridView\DataGrithView\obj\Debug\DataGrithView.pdb
