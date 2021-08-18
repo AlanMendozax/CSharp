@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\ColaRef\ColaRef\obj\Debug\ColaRef.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ColaRef\ColaRef\bin\Debug\ColaRef.exe.config
+C:\Users\hp\source\repos\ColaRef\ColaRef\bin\Debug\ColaRef.exe
+C:\Users\hp\source\repos\ColaRef\ColaRef\bin\Debug\ColaRef.pdb
+C:\Users\hp\source\repos\ColaRef\ColaRef\obj\Debug\ColaRef.exe
+C:\Users\hp\source\repos\ColaRef\ColaRef\obj\Debug\ColaRef.pdb
