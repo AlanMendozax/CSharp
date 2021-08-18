@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\arbol\arbol\bin\Debug\arbol.exe.config
+C:\Users\hp\source\repos\arbol\arbol\bin\Debug\arbol.exe
+C:\Users\hp\source\repos\arbol\arbol\bin\Debug\arbol.pdb
+C:\Users\hp\source\repos\arbol\arbol\obj\Debug\arbol.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\arbol\arbol\obj\Debug\arbol.exe
+C:\Users\hp\source\repos\arbol\arbol\obj\Debug\arbol.pdb
